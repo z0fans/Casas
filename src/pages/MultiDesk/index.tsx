@@ -8,7 +8,6 @@ import StatusBadge from "../../components/common/StatusBadge";
 import {
   FolderOpen,
   Save,
-  RefreshCw,
   Zap,
   Users,
   Server,
